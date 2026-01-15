@@ -6,7 +6,7 @@ Project Overview - The project involved collecting real-time financial data, cle
 
 Problem Statement - Investors often lack a clear and consolidated view of portfolio performance, sector exposure, diversity in his portfolio and risk distribution. This project builds a system that delivers real-time insights, highlights concentration and diversification in his portfolio and supports informed investment decisions
 
-Tools Used - Python(Data extraction, cleaning, and analysis) , Power BI(Dashboard creation and visualization)
+Tools Used - Excel ,Python(Data extraction, cleaning, and analysis) , Power BI(Dashboard creation and visualization)
 
 Methods Used in the Project - Data cleaning and preprocessing,Exploratory Data Analysis (EDA),Portfolio performance analysis,Risk analysis,KPI calculation,Data modeling for BI reporting
 
