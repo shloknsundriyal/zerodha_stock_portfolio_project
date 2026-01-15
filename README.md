@@ -1,1 +1,2 @@
-this is an end to end project :)
+This project focused on building a dynamic portfolio management system using live market data sourced directly from Zerodha. 
+The core objective was to gather and organize a client’s financial portfolio data, perform in‑depth analysis to uncover investment patterns and risk exposures, and then translate those findings into clear, interactive visualizations. The dashboards and reports were designed to provide stakeholders with actionable insights enabling smarter decision‑making and transparent portfolio tracking.
